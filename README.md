@@ -28,8 +28,6 @@ flutter run
 lib/
 │
 ├── main.dart                   # Main entry point for the app.
-├── temp_converter_homepage.dart # Stateful widget handling temperature conversion.
-│
 assets/
 └── images/
     └── circle.png              # Icon used in the bottom navigation bar.
